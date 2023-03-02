@@ -1,7 +1,8 @@
 # Uncomment the next line to define a global platform for your project
 plugin 'cocoapods-art', :sources => [
   'cc-cocoapods-release-local',
-  'trunk'
+  'trunk',
+  'cc-cocoapods-release-local'
 ]
 
 platform :ios, '11.5'
